@@ -1,0 +1,9 @@
+
+spring:
+  rabbitmq:
+    host: b-7a159ff2-ab68-4089-85fb-ba38e9f730df.mq.ap-northeast-2.amazonaws.com
+    port: 5671
+    username: coinvestor
+    password: LrwJxH@qcQDKCG^J
+    ssl:
+      enabled: true
