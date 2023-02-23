@@ -24,8 +24,8 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-amqp'
     implementation 'org.springframework.boot:spring-boot-starter-web'
     implementation 'org.springframework.boot:spring-boot-starter-integration'
-    compileOnly "org.springframework.integration:spring-integration-http"
-    implementation 'org.springframework.integration:spring-integration-amqp'
+//    implementation "org.springframework.integration:spring-integration-http"
+//    implementation 'org.springframework.integration:spring-integration-amqp'
     compileOnly 'org.projectlombok:lombok'
     annotationProcessor 'org.projectlombok:lombok'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
